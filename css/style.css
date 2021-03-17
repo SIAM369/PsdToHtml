@@ -116,7 +116,7 @@ Top Header CSS
     color: black;
 }
 .search_area input[type="submit"]{
-    background: url(https://img/search.png);
+    background: url("/img/search.png");
     background-repeat: no-repeat;
     background-position: right;
     width: 23%;
