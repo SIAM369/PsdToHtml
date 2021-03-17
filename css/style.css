@@ -116,7 +116,7 @@ Top Header CSS
     color: black;
 }
 .search_area input[type="submit"]{
-    background: url(/img/search.png);
+    background: url(https://img/search.png);
     background-repeat: no-repeat;
     background-position: right;
     width: 23%;
@@ -455,7 +455,7 @@ Work CSS
 }
 
 .child_testimonial h3{
-    background-image: url(/img/quote.png);
+    background-image: url(https://img/quote.png);
     color: #989898;
     font-size: 16px;
     font-weight: bold;
@@ -554,7 +554,7 @@ Footer Area CSS
     display: none;
 }
 .child_footer li{
-    background: url(/img/arrow.png) no-repeat center left;
+    background: url(https://img/arrow.png) no-repeat center left;
     padding-left: 18px;
     display: block;
     border-bottom: 1px solid #666666;
